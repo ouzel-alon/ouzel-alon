@@ -1,6 +1,7 @@
 - 🖥️ I do computer stuff, occasionally cloud stuff
-- ⛅ I work with clouds, AWS most of the time
+- ⛅ I work with clouds
 - 💾 This is where I keep my little scripts and homelab code
+- 📝 Notes and scribbles: https://gist.github.com/ouzel-alon
 - 🤙 LinkedIn: https://www.linkedin.com/in/ouzel/
 
 <!---
